@@ -16,6 +16,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Volodymyr1997 &lt;vpochtaua@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mEh5UMdTtFphGS6CqDiSHCdc63" />
@@ -67,7 +77,7 @@
       <workItem from="1609107575299" duration="3381000" />
       <workItem from="1609156935463" duration="82000" />
       <workItem from="1609174223775" duration="3976000" />
-      <workItem from="1609266881262" duration="4356000" />
+      <workItem from="1609266881262" duration="4756000" />
     </task>
     <task id="LOCAL-00001" summary="lesson2">
       <created>1609271520215</created>
@@ -76,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609271520215</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson2">
+      <created>1609271880626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609271880626</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson2">
+      <created>1609272030057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609272030057</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
